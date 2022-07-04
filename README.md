@@ -1,3 +1,6 @@
+Оригинальный репозитарий.   
+https://github.com/iCepa/tun2tor   
+
 # tun2tor
 
 **This project will most probably be discontinued.**
